@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Web-Vault(Aryan Lathigara)
+- 👋 Hi, I’m @Web-Vault (Aryan Lathigara)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently persuing Diploma in Computer-Enigneering from RK University 
 - 📫 How to reach me web.vault0516@gmail.com
